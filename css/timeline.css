@@ -230,3 +230,10 @@ header .social .btn {
 }
 
 
+.hidden-content {
+  display: none;
+}
+
+.timeline-content h2 {
+  cursor: pointer;
+}
