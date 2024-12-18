@@ -11703,3 +11703,7 @@ pre .code {
   margin-top: 10px;
   display: inline-block;
 }
+
+.btn-red {
+  color: #FF8882;
+}
