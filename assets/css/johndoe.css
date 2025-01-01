@@ -10965,7 +10965,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 /* typography */
-p {
+p ul li{
   font-size: calc(13px + (14 - 13) * ((100vw - 300px) / (1300 - 300)));
   opacity: .8;
   color: #444;
