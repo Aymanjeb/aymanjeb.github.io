@@ -197,8 +197,8 @@
     }
 }
 
-/* blog wrapper */
-.blog-card {
+/* projects wrapper */
+.projects-card {
 	display: flex;
 	text-align: left;
 	border: 1px solid $border-color;
@@ -260,7 +260,7 @@
 	}
 }
 @include media-breakpoint-down (md) {
-	.blog-card {
+	.projects-card {
 		flex-direction: column;		
 
 		.img-holder {
